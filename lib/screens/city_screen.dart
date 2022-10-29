@@ -40,7 +40,8 @@ class _CityScreenState extends State<CityScreen> {
               TextButton(
                 onPressed: () {},
                 child: const Text(
-                  'Obter Previsão',
+                  'Obter Previsão'
+                  'Obtenha a previsao',
                   style: kButtonTextStyle,
                 ),
               )
